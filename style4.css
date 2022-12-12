@@ -1,0 +1,113 @@
+body{
+    background-color:hsl(293, 100%, 94%);
+}
+
+h1{
+    display: block;
+    background-color: rgb(201, 149, 250);
+    width: 10.5cm;
+    height: 7cm;
+    font-size: 2cm;
+    line-height: 3cm;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    display: block;
+    background-color: rgb(250, 118, 255);
+    font-size: 1cm;
+    text-align: right;
+    margin-top: 5cm;
+}
+
+.imagen1{
+    display: block;
+    width: 15cm;
+    height: 10cm;
+    float: right;
+ 
+}
+
+h3{
+    color: black;
+    display: block;
+    background-color: rgb(250, 118, 255);
+    font-size: 1cm;
+    text-align: left;
+    margin-top: 15cm;
+}
+
+.imagen2{
+    display: block;
+    width: 15cm;
+    height: 10cm;
+    float: left;
+}
+
+h4{
+
+    display: block;
+    background-color: rgb(250, 118, 255);
+    color: black;
+    font-size: 1cm;
+    text-align: right;
+    margin-top: 15cm;
+}
+
+.imagen3{
+    display: block;
+    width: 15cm;
+    height: 10cm;
+    float: right;
+    margin-left:1cm ;
+}
+
+h5{
+    display: block;
+    background-color: rgb(250, 118, 255);
+    color: black;
+    font-size: 1cm;
+    text-align: left;
+    margin-top: 15cm; 
+}
+
+.imagen4{
+    display: block;
+    width: 15cm;
+    height: 10cm;
+    float: left;
+    margin-right: 1cm;
+}
+
+h6{
+    display: block;
+    background-color: rgb(250, 118, 255);
+    color: black;
+    font-size: 1cm;
+    text-align: right;
+    margin-top: 15cm; 
+}
+
+.imagen5{
+    display: block;
+    width: 15cm;
+    height: 10cm;
+    float: right;
+    margin-left: 1cm;
+    margin-bottom: 5cm;
+}
+
+a{
+    font-size: 1.5cm;
+    color:hsl(325, 75%, 46%);
+    text-decoration: none;
+}
+
+.inicio{
+    margin-top: 10cm;
+    text-decoration: none;
+    font-size: 1cm;
+    color:hsl(291, 100%, 18%);
+    float: right;
+}

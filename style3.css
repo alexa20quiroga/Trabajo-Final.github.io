@@ -1,0 +1,110 @@
+body{
+    background-color:hsl(293, 100%, 94%);
+}
+
+h1{
+    text-align: center;
+    color:hsl(291, 100%, 18%);
+    font-weight: 500;
+    font-size: 7cm;
+}
+
+p{
+    text-align: center;
+    color:hsl(0, 0%, 0%);
+    font-weight: 100;
+    font-size: 1.5cm;
+}
+
+.imagen1{
+    float:right;
+    font-size: 5cm;
+    width: 10cm;
+    height: 10cm;
+    border-radius: 50%;
+}
+
+h2{
+    text-align: center;
+    font-size:1cm ;
+    background-color: rgb(250, 118, 255);
+    color:ghostwhite;
+}
+
+a{
+    text-align: left;
+    color:hsl(0, 0%, 0%);
+    font-weight: 100;
+    font-size: 2cm;
+    text-decoration: none;
+    line-height: 10cm;
+}
+
+h3{
+    text-align: center;
+    font-size:1cm ;
+    background-color: rgb(250, 118, 255);
+    color:ghostwhite;
+}
+
+.imagen2{
+    float:right;
+    font-size: 5cm;
+    width: 10cm;
+    height: 10cm;
+    border-radius: 50%;
+}
+
+h4{
+    text-align: center;
+    font-size:1cm ;
+    background-color: rgb(250, 118, 255);
+    color:ghostwhite;
+}
+
+.imagen3{
+    float:right;
+    font-size: 5cm;
+    width: 10cm;
+    height: 10cm;
+    border-radius: 50%;
+}
+
+h5{
+    text-align: center;
+    font-size:1cm ;
+    background-color: rgb(250, 118, 255);
+    color:ghostwhite;
+}
+
+
+.imagen4{
+    float:right;
+    font-size: 5cm;
+    width: 10cm;
+    height: 10cm;
+    border-radius: 50%;
+}
+
+h6{
+    text-align: center;
+    font-size:1cm ;
+    background-color: rgb(250, 118, 255);
+    color:ghostwhite;
+}
+
+.imagen5{
+    float:right;
+    font-size: 5cm;
+    width: 10m;
+    height: 10cm;
+    border-radius: 50%;
+}
+
+
+.inicio{
+    text-decoration: none;
+    font-size: 1cm;
+    color:hsl(291, 100%, 18%);
+}
+

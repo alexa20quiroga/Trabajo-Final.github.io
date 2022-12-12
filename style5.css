@@ -1,0 +1,174 @@
+body{
+    background-color:hsl(293, 100%, 94%); 
+}
+
+h1{
+    display:block;
+    color:ghostwhite;
+    text-align: center;
+    background-color:rgb(250, 118, 255) ;
+    font-size: 5cm
+}
+
+p{
+    color: black;
+    font-size: 1.5cm;
+    text-align: center;
+}
+
+h2{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+}
+
+.uno{
+    display: block;
+    background-color:rgb(201, 149, 250) ;
+    font-size: 0.5cm;
+    color: black
+}
+
+.img1{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+}
+
+h3{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+}
+
+.dos{
+    display: block;
+    background-color:rgb(201, 149, 250) ;
+    font-size: 0.5cm;
+    color: black
+}
+
+.img2{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+}
+
+h4{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+}
+
+.tres{
+    display: block;
+    background-color:rgb(201, 149, 250) ;
+    font-size: 0.5cm;
+    color: black
+}
+
+.img3{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+}
+
+h5{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+}
+
+.cuatro{
+    display: block;
+    background-color:rgb(201, 149, 250) ;
+    font-size: 0.5cm;
+    color: black
+}
+
+.img4{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+}
+
+h6{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+}
+
+.cinco{
+    display: block;
+    background-color:rgb(201, 149, 250) ;
+    font-size: 0.5cm;
+    color: black
+}
+
+.img5{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+}
+
+.Tae{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+}
+
+.seis{
+    display: block;
+    background-color:rgb(201, 149, 250) ;
+    font-size: 0.5cm;
+    color: black
+}
+
+.img6{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+}
+
+.juan{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+}
+
+.siete{
+    display: block;
+    background-color:rgb(201, 149, 250) ;
+    font-size: 0.5cm;
+    color: black
+}
+
+.img7{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+}
+
+.Army{
+    color: hsl(325, 75%, 46%);
+    font-size: 1.5cm;
+    text-align: left;
+}
+
+.army{
+    width: 10cm;
+    height: 10cm;
+    float: center;
+    border-radius: 2cm;
+    margin-bottom: 5cm;
+}
+
+.inicio{
+    margin-top: 10cm;
+    text-decoration: none;
+    font-size: 1cm;
+    color:hsl(291, 100%, 18%);
+    float: right;
+}
+
+

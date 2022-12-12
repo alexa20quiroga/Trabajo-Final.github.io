@@ -1,0 +1,228 @@
+body{
+    background-color: hsl(293, 100%, 94%);
+}
+
+h1{
+    display: block;
+    background-color:hsl(291, 100%, 18%); 
+    width:20cm;
+    text-align: center;
+    font-weight: 500;
+    font-size: 3cm;
+    color:aliceblue
+    
+}
+
+h2{
+    display: block;
+    background-color:hsl(325, 75%, 46%); 
+    width:7cm;
+    text-align: center;
+    border-radius: 1cm;
+    font-weight: 100;
+    font-size: 1.5cm;
+    color:rgb(0, 0, 0)
+    
+}
+
+.imagen1{
+    float: left;
+    font-size: 2cm;
+    width: 10cm;
+    height: 10cm;
+    margin-right: 4cm;
+   
+}
+
+.jin{
+     color: black;
+     display: block;
+     background-color: rgb(201, 149, 250);
+     width: 30cm;
+     height: 10cm;
+     text-align: left;
+     font-size: 1cm;
+}
+
+h3{
+    
+    display: block;
+    background-color:hsl(325, 75%, 46%); 
+    width:7cm;
+    text-align: center;
+    border-radius: 1cm;
+    font-weight: 100;
+    font-size: 1.5cm;
+    color:rgb(0, 0, 0) 
+}
+
+.imagen2{
+    float: left;
+    font-size: 2cm;
+    width: 10cm;
+    height: 10cm;
+    margin-right: 4cm;
+}
+
+.suga{
+    color: black;
+    display: block;
+    background-color: rgb(201, 149, 250);
+    width: 30cm;
+    height: 10cm;
+    text-align: left;
+    font-size: 1cm;
+    
+}
+
+h4{
+    display: block;
+    background-color:hsl(325, 75%, 46%); 
+    width:7cm;
+    text-align: center;
+    border-radius: 1cm;
+    font-weight: 100;
+    font-size: 1.5cm;
+    color:rgb(0, 0, 0)
+}
+
+.imagen3{
+    float: left;
+    font-size: 2cm;
+    width: 10cm;
+    height: 10cm;
+    margin-right: 4cm;
+}
+
+.hope{
+    color: black;
+     display: block;
+     background-color: rgb(201, 149, 250);
+     width: 30cm;
+     height: 10cm;
+     text-align: left;
+     font-size: 1cm;
+}
+
+h5{
+    display: block;
+    background-color:hsl(325, 75%, 46%); 
+    width:7cm;
+    text-align: center;
+    border-radius: 1cm;
+    font-weight: 100;
+    font-size: 1.5cm;
+    color:rgb(0, 0, 0)
+}
+
+.imagen4{
+    float: left;
+    font-size: 2cm;
+    width: 10cm;
+    height: 10cm;
+    margin-right: 4cm;
+}
+
+.joonni{
+    color: black;
+     display: block;
+     background-color: rgb(201, 149, 250);
+     width: 30cm;
+     height: 10cm;
+     text-align: left;
+     font-size: 1cm;
+}
+
+h6{
+    display: block;
+    background-color:hsl(325, 75%, 46%); 
+    width:7cm;
+    text-align: center;
+    border-radius: 1cm;
+    font-weight: 100;
+    font-size: 1.5cm;
+    color:rgb(0, 0, 0)
+}
+
+.imagen5{
+    float: left;
+    font-size: 2cm;
+    width: 10cm;
+    height: 10cm;
+    margin-right: 4cm;
+}
+
+.jimin{
+    color: black;
+     display: block;
+     background-color: rgb(201, 149, 250);
+     width: 30cm;
+     height: 10cm;
+     text-align: left;
+     font-size: 1cm;
+}
+
+.v{
+    display: block;
+    background-color:hsl(325, 75%, 46%); 
+    width:7cm;
+    text-align: center;
+    border-radius: 1cm;
+    font-weight: 100;
+    font-size: 1.5cm;
+    color:rgb(0, 0, 0)
+}
+
+.imagen6{
+    float: left;
+    font-size: 2cm;
+    width: 10cm;
+    height: 10cm;
+    margin-right: 4cm;
+}
+
+.V{
+    color: black;
+     display: block;
+     background-color: rgb(201, 149, 250);
+     width: 30cm;
+     height: 10cm;
+     text-align: left;
+     font-size: 1cm;
+}
+
+.juan{
+    display: block;
+    background-color:hsl(325, 75%, 46%); 
+    width:7cm;
+    text-align: center;
+    border-radius: 1cm;
+    font-weight: 100;
+    font-size: 1.5cm;
+    color:rgb(0, 0, 0)
+}
+
+.imagen7{
+    float: left;
+    font-size: 2cm;
+    width: 10cm;
+    height: 10cm;
+    margin-right: 4cm;
+}
+
+.kooky{
+    color: black;
+     display: block;
+     background-color: rgb(201, 149, 250);
+     width: 30cm;
+     height: 10cm;
+     text-align: left;
+     font-size: 1cm;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1cm;
+    color:hsl(291, 100%, 18%);
+    line-height: 5cm;
+}
